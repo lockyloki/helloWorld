@@ -3,7 +3,7 @@
 
 print("Hey World, it's me!")
 
-print("Yo yo, Tinina goodbye!")
+print("Yo yo, Chris goodbye!")
 
 print("how about this?")
 
